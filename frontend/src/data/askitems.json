@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A1",
+    "created_date": "2021-04-28T20:22:08Z",
+    "best_before": "Not mentioned",
+    "active": true,
+    "notes": "A1111"
+  },
+  {
+    "name": "A2",
+    "created_date": "2021-04-28T20:22:19Z",
+    "best_before": "In a month",
+    "active": true,
+    "notes": "A2222"
+  }
+]
